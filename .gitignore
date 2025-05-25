@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+ENV/
+.env
+.env.*
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Qdrant (local data, if any)
+qdrant_storage/
+qdrant_data/
+
+# Embedding/model cache
+sentence_transformers_cache/
+transformers_cache/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db 
+
+#md files
+explanation.md
+pitch.md
+production.md
