@@ -22,7 +22,7 @@ This project is an advanced job and candidate recommender system that combines a
 ## Project Structure
 
 ```
-trial1/
+job-rec-system/
   src/
     recommender/
       hybrid_kg.py
